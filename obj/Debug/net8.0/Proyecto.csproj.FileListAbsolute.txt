@@ -1,0 +1,204 @@
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\appsettings.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Proyecto.staticwebassets.runtime.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Proyecto.exe
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Proyecto.dll
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.sourcelink.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto.bundle.scp.css
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.Up2Date
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.dll
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\crist\Desktop\Archvivos ETP\PROYECTOS\PROYECTO C#\Proyecto-C-\obj\Debug\net8.0\ref\Proyecto.dll
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\appsettings.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Proyecto.staticwebassets.runtime.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Proyecto.exe
+C:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Proyecto.dll
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Proyecto.pdb
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cache
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cs
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.sourcelink.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto.props
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\scopedcss\bundle\Proyecto.styles.css
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto.bundle.scp.css
+C:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.CopyComplete
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.dll
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\refint\Proyecto.dll
+c:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\alvar\Desktop\GITHUB\Proyecto-C-\obj\Debug\net8.0\ref\Proyecto.dll
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\appsettings.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Proyecto.staticwebassets.runtime.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Proyecto.exe
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Proyecto.dll
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.sourcelink.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto.bundle.scp.css
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.csproj.Up2Date
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.dll
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\Jcarl\Downloads\PROJ-API\Proyecto-C-\obj\Debug\net8.0\ref\Proyecto.dll
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\appsettings.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Proyecto.staticwebassets.runtime.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Proyecto.exe
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Proyecto.dll
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.sourcelink.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto.bundle.scp.css
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.csproj.CopyComplete
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.dll
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\Jhester John Calma\OneDrive\Documents\m4\obj\Debug\net8.0\ref\Proyecto.dll
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\appsettings.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Proyecto.staticwebassets.runtime.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Proyecto.exe
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Proyecto.dll
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.sourcelink.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto.bundle.scp.css
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.csproj.CopyComplete
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.dll
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\Jay-J\OneDrive - DEPED REGION 2\Documents\m45proj\m4\obj\Debug\net8.0\ref\Proyecto.dll
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\appsettings.json
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Proyecto.staticwebassets.runtime.json
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Proyecto.exe
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Proyecto.deps.json
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Proyecto.runtimeconfig.json
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Proyecto.dll
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Proyecto.pdb
+C:\Users\Jcarl\Downloads\m4\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.AssemblyInfo.cs
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cache
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.RazorAssemblyInfo.cs
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.sourcelink.json
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\scopedcss\projectbundle\Proyecto.bundle.scp.css
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.csproj.Up2Date
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.dll
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\refint\Proyecto.dll
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.pdb
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\Proyecto.genruntimeconfig.cache
+C:\Users\Jcarl\Downloads\m4\obj\Debug\net8.0\ref\Proyecto.dll

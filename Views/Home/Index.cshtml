@@ -1,0 +1,38 @@
+﻿<!-- Specifying that the model for this view is a list of GameModel objects -->
+@model List<GameModel>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Games</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Proyecto.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="game-grid">
+        <!-- Iterating over each GameModel object in the provided model list -->
+        @foreach (var game in Model)
+        {
+            <div class="game-card">
+                <!-- Displaying the game's thumbnail image using the URL stored in the Thumbnail property -->
+                <img src="@game.Thumbnail" alt="@game.Title" class="game-thumbnail">
+                <div class="game-details">
+                    <!-- Displaying the game's title -->
+                    <h2>@game.Title</h2>
+                    <!-- Displaying a short description of the game -->
+                    <p>@game.ShortDescription</p>
+                    <!-- Displaying the game's genre -->
+                    <p><strong>Genre:</strong> @game.Genre</p>
+                    <!-- Displaying the platform on which the game is available -->
+                    <p><strong>Platform:</strong> @game.Platform</p>
+                    <!-- Displaying the game's publisher -->
+                    <p><strong>Publisher:</strong> @game.Publisher</p>
+                    <!-- Displaying the game's developer -->
+                    <p><strong>Developer:</strong> @game.Developer</p>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

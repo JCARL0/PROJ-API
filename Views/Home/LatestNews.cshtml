@@ -1,0 +1,36 @@
+@model List<NewsModel>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Latest News</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Proyecto.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <h1></h1>
+    <div class="news-list">
+        <!-- Iterating over each NewsModel object in the provided model list -->
+        @foreach (var newsItem in Model)
+        {
+            <div class="news-card">
+                <!-- Displaying the news thumbnail image using the URL stored in the Thumbnail property -->
+                <img src="@newsItem.Thumbnail" alt="Thumbnail" class="news-thumbnail" />
+                <div class="news-details">
+                    <!-- Displaying the news title -->
+                    <h2>@newsItem.Title</h2>
+                    <!-- Displaying a short description of the news -->
+                    <p>@newsItem.ShortDescription</p>
+                    <!-- Providing a link to read the full article, opening in a new tab -->
+                    <a href="@newsItem.article_url" target="_blank">Read More</a>
+                </div>
+            </div>
+        }
+
+    </div>
+</body>
+
+</html>

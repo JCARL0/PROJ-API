@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  background: url('https://steamuserimages-a.akamaihd.net/ugc/918045458108611016/4B79DA3FD671E56B0121CE70F2A4F7B958649A28/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false') no-repeat fixed center/cover;
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.game-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.game-card {
+  background-color: rgba(255, 255, 255, 0.8); /* 80% transparency */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: calc(25% - 40px); /* 4 cards per row with some margin */
+  box-sizing: border-box;
+  text-align: center;
+}
+
+
+.game-thumbnail {
+  max-width: 100%;
+  border-radius: 8px 8px 0 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+p {
+  margin: 5px 0;
+}
+
+/* News */
+
+.news-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.news-card {
+  background-color: rgba(255, 255, 255, 0.8); /* 80% transparency */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: calc(25% - 40px); /* 4 cards per row with some margin */
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.news-thumbnail {
+  width: 100%;
+  height: auto;
+}
+
+.news-details {
+  padding: 15px;
+}
+
+.news-details h2 {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.news-details p {
+  margin: 10px 0;
+}
+
+.news-date {
+  font-size: 0.9em;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .news-card {
+      width: calc(25% - 40px); /* Two cards per row on smaller screens */
+  }
+}
+
+@media (max-width: 576px) {
+  .news-card {
+      width: 100%; /* One card per row on very small screens */
+  }
+}
+
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.nav-link.text-white {
+  font-family: 'Press Start 2P', cursive;
+}
+
