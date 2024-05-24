@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jcarl\\Downloads\\m4\\Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Jcarl\\Desktop\\proj\\PROJ-API\\Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\Jcarl\\Downloads\\m4\\Proyecto.csproj",
+      "projectPath": "C:\\Users\\Jcarl\\Desktop\\proj\\PROJ-API\\Proyecto.csproj",
       "packagesPath": "C:\\Users\\Jcarl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jcarl\\Downloads\\m4\\obj\\",
+      "outputPath": "C:\\Users\\Jcarl\\Desktop\\proj\\PROJ-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jcarl\\AppData\\Roaming\\NuGet\\NuGet.Config"

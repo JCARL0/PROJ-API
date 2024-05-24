@@ -10,4 +10,6 @@ public class GameModel
     public string Publisher { get; set; }
     public string Developer { get; set; }
     public string ProfileUrl { get; set; }
+
+    public string game_url { get; set; }
 }
